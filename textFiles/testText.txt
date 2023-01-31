@@ -1,0 +1,4 @@
+ hello my name is thomas and i am trying to write code
+ hello thomas my name is not thomas but i am trying to write code aswell
+ my name is thomas and your name is not thomas
+ that is correct my name is not thomas and your name is thomas
